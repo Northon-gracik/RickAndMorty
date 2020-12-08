@@ -1,2 +1,2 @@
 # RickAndMorty
- Consumindo API do Rick e Mortt
+ Consumindo API do Rick e Morty
