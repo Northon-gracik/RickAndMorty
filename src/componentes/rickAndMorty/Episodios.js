@@ -20,7 +20,7 @@ export default props => {
 
     return(
         <ScrollView>
-            <View style={styles.App}>
+            <View style={styles.App}> 
                 <View style={{ width: '98%' }}>
                     {eps.map(ep => {
                         return <Episode key={ep.id} eps={ep}/>
